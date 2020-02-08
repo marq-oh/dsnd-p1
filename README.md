@@ -22,24 +22,22 @@ The approach for the analysis can be found on the Jupyter notebook: [insert here
 There are 5 files in this project
 1. Readme.md (this file)
 2. seattle_airbnb_pricing.ipynb (Python Jupyter Notebook)
-3. [calendar_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#calendar.csv)
-4. [listings_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#listings.csv)
-5. [reviews_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#reviews.csv)
+3. [calendar_sea.csv](https://www.kaggle.com/airbnb/seattle/data#calendar.csv)
+4. [listings_sea.csv](https://www.kaggle.com/airbnb/seattle/data#listings.csv)
+5. [reviews_sea.csv])https://www.kaggle.com/airbnb/seattle/data#reviews.csv)
 
 ## How to Interact with project
 The key pieces of this project are:
-* Blog Post: [insert here]
+* Blog Post
 * Jupyter Notebook
 * Data
 
 Recommended steps for interaction with this project:
-1. Read the Blog Post
-2. Go through Jupyter Notebook. ([How to execute a Jupyter Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html#executing-a-notebook))
+1. Read the [Blog Post](insert url here)
+2. Go through [seattle_airbnb_pricing.ipynb](https://github.com/marq-oh/dsnd-p1/blob/master/seattle_airbnb_pricing.ipynb)
 3. If desired, you can view the data on [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
 
 ## Author
 
 Marco SJ
 - <https://github.com/marq-oh/>
-
-Blog at Medium - https://medium.com/@sunilthakur_67045/analysis-of-2016-airbnb-offering-in-seattle-16e524e58c93
