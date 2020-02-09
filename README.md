@@ -22,9 +22,9 @@ The approach for the analysis can be found on the [Jupyter notebook](https://git
 There are 5 files in this project
 1. Readme.md (this file)
 2. seattle_airbnb_pricing.ipynb (Python Jupyter Notebook)
-3. [calendar_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#calendar.csv)
-4. [listings_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#listings.csv)
-5. [reviews_sea.csv])(https://www.kaggle.com/airbnb/seattle/data#reviews.csv)
+3. [calendar_sea.csv](https://www.kaggle.com/airbnb/seattle/data#calendar.csv)
+4. [listings_sea.csv](https://www.kaggle.com/airbnb/seattle/data#listings.csv)
+5. [reviews_sea.csv](https://www.kaggle.com/airbnb/seattle/data#reviews.csv)
 
 ## How to Interact with project
 The key pieces of this project are:
